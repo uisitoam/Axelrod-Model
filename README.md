@@ -6,4 +6,4 @@ Se trata el modelo sociológico de Axelrod haciendo uso de redes regulares. Se c
 
 `boxgraph.py`: permite hacer un tipo concreto de gráfico usado para la visualización de las regiones culturales generadas en cada iteración. 
 
-`main_script.py`: Se crean las sociedades con los parámetros deseados y se grafican todos los resultados para su posterior análisis físico. 
+`main.py`: Se crean las sociedades con los parámetros deseados y se grafican todos los resultados para su posterior análisis físico. 
